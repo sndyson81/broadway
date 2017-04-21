@@ -8,3 +8,7 @@ h1 {
   font-weight: bold;
   color: white;
 }
+
+.image {
+  background-image: image(".resources/images/he-flatiron-building.png");
+}
